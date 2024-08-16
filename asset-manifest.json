@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Scenario1_ReactFlow/static/css/main.264d4ef0.css",
+    "main.js": "/Scenario1_ReactFlow/static/js/main.b4e73d9d.js",
+    "static/js/453.56fc727d.chunk.js": "/Scenario1_ReactFlow/static/js/453.56fc727d.chunk.js",
+    "index.html": "/Scenario1_ReactFlow/index.html",
+    "main.264d4ef0.css.map": "/Scenario1_ReactFlow/static/css/main.264d4ef0.css.map",
+    "main.b4e73d9d.js.map": "/Scenario1_ReactFlow/static/js/main.b4e73d9d.js.map",
+    "453.56fc727d.chunk.js.map": "/Scenario1_ReactFlow/static/js/453.56fc727d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.264d4ef0.css",
+    "static/js/main.b4e73d9d.js"
+  ]
+}
